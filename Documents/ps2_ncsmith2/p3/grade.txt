@@ -1,0 +1,155 @@
+Autograder Version 0.1.1-alpha
+2020-02-16 08:17:33
+
+Partners:
+
+Scoring:
+Test 0: 0/1
+Test 1: 0/1
+Test 2: 0/1
+Test 3: 0/1
+Test 4: 0/1
+Test 5: 0/1
+Test 6: 0/1
+Test 7: 0/1
+Test 8: 0/1
+Test 9: 0/1
+Test 10: 0/1
+Test 11: 0/1
+Test 12: 0/1
+Test 13: 0/1
+Test 14: 0/1
+Test 15: 0/1
+Test 16: 0/1
+Test 17: 0/1
+Test 18: 0/1
+Test 19: 0/1
+Test 20: 0/1
+Test 21: 0/1
+Test 22: 0/1
+Test 23: 0/1
+Test 24: 0/1
+Test 25: 0/1
+Test 26: 0/1
+Test 27: 0/1
+Test 28: 0/1
+Test 29: 0/1
+Test 30: 0/1
+Test 31: 0/1
+Test 32: 0/1
+Test 33: 0/1
+Test 34: 0/1
+Test 35: 0/1
+Test 36: 0/1
+Test 37: 0/1
+Test 38: 0/1
+Test 39: 0/1
+Test 40: 0/1
+Test 41: 0/1
+Test 42: 0/1
+Test 43: 0/1
+Test 44: 0/1
+Test 45: 0/1
+Test 46: 0/1
+Test 47: 0/1
+Total: 0/48
+
+
+Errors:
+[2020-02-16 08:17:34] Failed on test 2 2 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:34] Failed on test 2 2 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:34] Failed on test 2 2 ./input/cacti.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:34] Failed on test 2 4 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:35] Failed on test 2 4 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:35] Failed on test 2 4 ./input/cacti.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:35] Failed on test 2 8 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:35] Failed on test 2 8 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:35] Failed on test 2 8 ./input/cacti.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:36] Failed on test 2 16 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:36] Failed on test 2 16 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:36] Failed on test 2 16 ./input/cacti.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:36] Failed on test 4 2 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:36] Failed on test 4 2 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:37] Failed on test 4 2 ./input/cacti.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:37] Failed on test 4 4 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:37] Failed on test 4 4 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:37] Failed on test 4 4 ./input/cacti.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:37] Failed on test 4 8 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:38] Failed on test 4 8 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:38] Failed on test 4 8 ./input/cacti.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:38] Failed on test 4 16 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:38] Failed on test 4 16 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:38] Failed on test 4 16 ./input/cacti.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:39] Failed on test 8 2 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:39] Failed on test 8 2 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:39] Failed on test 8 2 ./input/cacti.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:39] Failed on test 8 4 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:39] Failed on test 8 4 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:40] Failed on test 8 4 ./input/cacti.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:40] Failed on test 8 8 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:40] Failed on test 8 8 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:40] Failed on test 8 8 ./input/cacti.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:40] Failed on test 8 16 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:41] Failed on test 8 16 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:41] Failed on test 8 16 ./input/cacti.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:41] Failed on test 16 2 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:41] Failed on test 16 2 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:41] Failed on test 16 2 ./input/cacti.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:42] Failed on test 16 4 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:42] Failed on test 16 4 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:42] Failed on test 16 4 ./input/cacti.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:42] Failed on test 16 8 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:42] Failed on test 16 8 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:43] Failed on test 16 8 ./input/cacti.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:43] Failed on test 16 16 ./input/drums.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:43] Failed on test 16 16 ./input/yosemite.jpg with error:
+Does not match expected output
+[2020-02-16 08:17:43] Failed on test 16 16 ./input/cacti.jpg with error:
+Does not match expected output
+
